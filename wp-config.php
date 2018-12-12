@@ -40,6 +40,8 @@ define('DB_COLLATE', '');
 /** Turn off FTP method */
 define('FS_METHOD','direct');
 
+define('WP_DEBUG', true);
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *

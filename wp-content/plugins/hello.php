@@ -14,7 +14,7 @@ Author URI: http://ma.tt/
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
+	$lyrics = "ASDASDSADAHello, Dolly
 Well, hello, Dolly
 It's so nice to have you back where you belong
 You're lookin' swell, Dolly
@@ -25,7 +25,7 @@ I feel the room swayin'
 While the band's playin'
 One of our old favorite songs from way back when
 So, take her wrap, fellas
-Dolly, never go away again 
+Dolly, never go away again
 Hello, Dolly
 Well, hello, Dolly
 It's so nice to have you back where you belong
@@ -68,7 +68,7 @@ function dolly_css() {
 	#dolly {
 		float: $x;
 		padding-$x: 15px;
-		padding-top: 5px;		
+		padding-top: 5px;
 		margin: 0;
 		font-size: 11px;
 	}
